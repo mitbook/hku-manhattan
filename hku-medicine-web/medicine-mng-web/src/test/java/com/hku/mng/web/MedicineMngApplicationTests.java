@@ -3,7 +3,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 /**
  * @author pengzhengfa
  */
-@SpringBootTest(classes = MedicineMngCensusApplication.class)
-public class MedicineMngCensusApplicationTests {
+@SpringBootTest(classes = MedicineMngApplication.class)
+public class MedicineMngApplicationTests {
 
 }
