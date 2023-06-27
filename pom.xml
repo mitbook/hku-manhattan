@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.huk</groupId>
-    <artifactId>hku-manhattan</artifactId>
+    <artifactId>hku-medicine</artifactId>
     <version>1.0</version>
-    <name>hku-manhattan</name>
-    <description>hku-manhattan</description>
+    <name>hku-medicine</name>
+    <description>hku-medicine</description>
     <packaging>pom</packaging>
 
     <modules>
