@@ -64,13 +64,6 @@
         </dependencies>
     </dependencyManagement>
 
-    <repositories>
-        <repository>
-            <id>siddhi-releases</id>
-            <url>https://maven.wso2.org/nexus/content/repositories/releases/org/wso2/siddhi/</url>
-        </repository>
-    </repositories>
-
     <build>
         <plugins>
             <plugin>
