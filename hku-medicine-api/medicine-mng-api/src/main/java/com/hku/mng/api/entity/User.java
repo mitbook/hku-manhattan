@@ -23,6 +23,13 @@ public class User {
     @TableField(value = "phone")
     private String phone;
 
+    @TableField(value = "email")
+    private String email;
+
+    @TableField(value = "job")
+    private String job;
+
+
     @TableField(value = "gender")
     private String gender;
 

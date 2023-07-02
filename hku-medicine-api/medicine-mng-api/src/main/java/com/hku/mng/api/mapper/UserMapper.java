@@ -5,6 +5,9 @@ import com.hku.mng.api.entity.User;
 
 import java.util.Set;
 
+/**
+ * @author pengzhengfa
+ */
 public interface UserMapper extends BaseMapper<User> {
 
     Set<String> getUserRoles(String userName);
